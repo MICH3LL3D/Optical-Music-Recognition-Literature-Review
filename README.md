@@ -20,14 +20,14 @@ Michelle Dong and Luke Wang (2025). *Optical Music Recognition Literature Review
 [6] F. Kurth, M. Müller, C. Fremerey, Y .-h. Chang, and M. Clausen (2007). *Automated synchronization of scanned sheet music with audio recordings* 
 [PDF](https://archives.ismir.net/ismir2007/paper/000261.pdf)
 <br/>
-[7] C. Liebhardt, homr: Optical Music Recognition software
+[7] C. Liebhardt. *homr: Optical Music Recognition software*
 [GITHUB REPO](https://github.com/liebharc/homr)
 <br/>
 [8] C. Fremerey, M. Müller, F. Kurth, and M. Clausen (2008). *Automatic mapping of scanned sheet music to audio recordings* 
 [PDF](https://ismir2008.ismir.net/papers/ISMIR2008_116.pdf)
 <br/>
-[9] Y . Li et al., Polyphonic-TrOMR: Transformer-based polyphonic optical music recognition (TrOMR)
+[9] Y . Li et al. *Polyphonic-TrOMR: Transformer-based polyphonic optical music recognition (TrOMR)*
 [GITHUB REPO](https://github.com/NetEase/Polyphonic-TrOMR)
 <br/>
-[10] Playscore, *What is optical music recognition?*
+[10] Playscore. *What is optical music recognition?*
 [Website](https://www.playscore.co/blog/what-is-optical-music-recognition/#:~:text=Optical%20Music%20Recognition%20(OMR)%20is,converted%20into%20different%20digital%20formats.)
