@@ -2,7 +2,7 @@ Michelle Dong and Luke Wang (2025). *Optical Music Recognition Literature Review
 [Google Doc](https://docs.google.com/document/d/14GAhIM00-Kb6hLitmbeWLhMFCEUbVBVoqYMplx4MVl8/edit?usp=sharing)
 
 ### Sources:
-[1] E. Shatri and G. Fazekas (2020) *Optical music recognition: State of the art and major challenges*
+[1] E. Shatri and G. Fazekas (2020) *Optical music recognition: State of the art and major challenges*.
 [PDF](https://arxiv.org/pdf/2006.07885)
 <br/>
 [2] A. Rebelo, I. Fujinaga, F. Paszkiewicz, A. R. S. Marçal, C. Guedes, and J. S. Cardoso (2012). *Optical music recognition: State-of-the-art and open issues* 
